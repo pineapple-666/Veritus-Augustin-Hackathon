@@ -1,1 +1,5 @@
+import pandas as pd
+from pathlib import Path
 
+if not Path("olympics_1896_2004.csv").exists():
+  !wget https://github.com/jonfernandes/pandas_essential/raw/main/olympics_1896_2004.csv
