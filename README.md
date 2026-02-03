@@ -20,3 +20,6 @@ Incorporates fairness metrics and bias mitigation strategies
 ![image alt](https://github.com/pineapple-666/Veritus-Augustin-Hackathon/blob/7fc5406f3e1aed5d6ce05abf9e02010b6da114e2/Slide2.PNG)
 ![image alt](https://github.com/pineapple-666/Veritus-Augustin-Hackathon/blob/b6ae3c418f604ed0236ff0ce40ea23b0e9030522/Slide3.PNG)
 ![image alt](https://github.com/pineapple-666/Veritus-Augustin-Hackathon/blob/b6ae3c418f604ed0236ff0ce40ea23b0e9030522/Slide10.PNG)
+![image alt](https://github.com/pineapple-666/Veritus-Augustin-Hackathon/blob/f57da988eed420ffaf90eab49b34c163305a37e1/Slide11.PNG)
+![image alt](https://github.com/pineapple-666/Veritus-Augustin-Hackathon/blob/f57da988eed420ffaf90eab49b34c163305a37e1/Slide14.PNG)
+![image alt](https://github.com/pineapple-666/Veritus-Augustin-Hackathon/blob/f57da988eed420ffaf90eab49b34c163305a37e1/Slide15.PNG)
