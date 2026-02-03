@@ -16,3 +16,5 @@ Flags potential equity gaps in access, achievement, and engagement
 Provides actionable insights for educators and administrators
 
 Incorporates fairness metrics and bias mitigation strategies
+
+![image alt](https://github.com/pineapple-666/Veritus-Augustin-Hackathon/blob/7fc5406f3e1aed5d6ce05abf9e02010b6da114e2/Slide2.PNG)
